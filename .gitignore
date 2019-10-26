@@ -105,7 +105,6 @@ ENV/
 .mypy_cache/
 
 # output
-*.csv
 *.json
 *.txt
 *.log
