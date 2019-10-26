@@ -108,3 +108,4 @@ ENV/
 *.csv
 *.json
 *.txt
+*.log
