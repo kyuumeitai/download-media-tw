@@ -1,0 +1,5 @@
+id,conversation_id,created_at,date,time,timezone,user_id,username,name,place,tweet,mentions,urls,photos,replies_count,retweets_count,likes_count,hashtags,cashtags,link,retweet,quote_url,video,near,geo,source,user_rt_id,user_rt,retweet_id,reply_to,retweet_date
+1187160127637458944,1187160127637458944,1571876005000,2019-10-23,21:13:25,-03,17746044,luciernaga_nyx,Lucy~♫♪,,"#QueRenuncienTodos
+#Losmilicosnosontusamigos
+#lospacostampoco
+#Pontevioctm",[],[],[],0,1,0,"['#querenuncientodos', '#losmilicosnosontusamigos', '#lospacostampoco', '#pontevioctm']",[],https://twitter.com/luciernaga_nyx/status/1187160127637458944,False,,0,,,,,,,"[{'user_id': '17746044', 'username': 'luciernaga_nyx'}]",
