@@ -25,7 +25,7 @@ def main():
             c.Debug = True
             c.Store_csv = True
             # c.Videos = True
-            c.Output = ''.join([hashtag, '-', baseMonthStr, str(day), '.csv'])
+            c.Output = ''.join(['../data/', hashtag, '-', baseMonthStr, str(day), '.csv'])
             twint.run.Search(c)
 if __name__ == '__main__':
     main()
