@@ -1,8 +1,0 @@
-id,conversation_id,created_at,date,time,timezone,user_id,username,name,place,tweet,mentions,urls,photos,replies_count,retweets_count,likes_count,hashtags,cashtags,link,retweet,quote_url,video,near,geo,source,user_rt_id,user_rt,retweet_id,reply_to,retweet_date
-1186975280759480320,1186975280759480320,1571831934000,2019-10-23,08:58:54,-03,1043962472,gonzamaturana87,Gonza Ma⸸urana ☠✊GAME✊☠,,"#ChileNoQuiereMigajas #ChileNoQuiereLimosnas
-#ChileNoQuiereMigajas #ChileNoQuiereLimosnas
-#ChileNoQuiereMigajas #ChileNoQuiereLimosnas
-#ChileNoQuiereMigajas #ChileNoQuiereLimosnas
-#ChileNoQuiereMigajas #ChileNoQuiereLimosnas
-#ChileNoQuiereMigajas #ChileNoQuiereLimosnas",[],[],[],0,1,0,"['#chilenoquieremigajas', '#chilenoquierelimosnas', '#chilenoquieremigajas', '#chilenoquierelimosnas', '#chilenoquieremigajas', '#chilenoquierelimosnas', '#chilenoquieremigajas', '#chilenoquierelimosnas', '#chilenoquieremigajas', '#chilenoquierelimosnas', '#chilenoquieremigajas', '#chilenoquierelimosnas']",[],https://twitter.com/GonzaMaturana87/status/1186975280759480320,False,,0,,,,,,,"[{'user_id': '1043962472', 'username': 'GonzaMaturana87'}]",
-1186843450005753858,1186843450005753858,1571800503000,2019-10-23,00:15:03,-03,172160720,isthatmabe,mabel llanquileo,,#ChileNoQuiereMigajas,[],[],[],0,1,0,['#chilenoquieremigajas'],[],https://twitter.com/isthatmabe/status/1186843450005753858,False,,0,,,,,,,"[{'user_id': '172160720', 'username': 'isthatmabe'}]",
